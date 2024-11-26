@@ -1,11 +1,11 @@
 <template>
   <div>
-    <test-task></test-task>
+    <MainPage />
   </div>
 </template>
 
 <script setup>
-import TestTask from './components/TestTask.vue';
+import MainPage from './components/MainPage.vue';
 </script>
 
 <style>
